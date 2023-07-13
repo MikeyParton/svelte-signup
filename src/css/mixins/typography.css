@@ -1,0 +1,44 @@
+@define-mixin text-xxs {
+	font-size: 10px;
+	line-height: 16px;
+}
+
+@define-mixin text-xs {
+	font-size: 12px;
+	line-height: 20px;
+}
+
+@define-mixin text-s {
+	font-size: 14px;
+	line-height: 24px;
+}
+
+@define-mixin text-m {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+@define-mixin text-l {
+	font-size: 20px;
+	line-height: 32px;
+}
+
+@define-mixin text-xl {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+@define-mixin text-xxl {
+	font-size: 32px;
+	line-height: 40px;
+}
+
+@define-mixin text-xxxl {
+	font-size: 40px;
+	line-height: 48px;
+}
+
+@define-mixin text-xxxxl {
+	font-size: 48px;
+	line-height: 56px;
+}

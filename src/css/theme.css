@@ -1,0 +1,12 @@
+:root {
+	--font-family-gotham: 'Gotham SS', Arial, Helvetica, sans-serif;
+	--brand-blue: #0072fb;
+	--error: #851219;
+	--disabled: #aaa;
+
+	--weight-light: 300;
+	--weight-book: 400;
+	--weight-medium: 500;
+	--weight-bold: 700;
+	--weight-black: 800;
+}
